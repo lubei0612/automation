@@ -1,0 +1,25 @@
+{
+  "case_id": "case-0001",
+  "instance_id": "eslint__eslint-10368",
+  "accepted": true,
+  "classification": "accepted",
+  "failed_gates": [],
+  "strict_acceptance_errors": [],
+  "model_requirement_waived": true,
+  "verification": {
+    "test_patch_only_exit": 4,
+    "test_patch_plus_final_diff_exit": 0,
+    "test_command": "./node_modules/.bin/mocha tests/lib/rules/prefer-const.js",
+    "post_patch_summary": "84 passing",
+    "docker": {
+      "build": "passed",
+      "image": "automation-eslint-10368:20260427-fixed",
+      "image_id": "sha256:3148907bccb20f38159ebdf6c4923074baf4336f0605454d290124aae4b1db96",
+      "platform": "linux/amd64",
+      "run_verification_exit": 0,
+      "resolved": true,
+      "pre_patch_exit_code": 4,
+      "post_patch_exit_code": 0
+    }
+  }
+}

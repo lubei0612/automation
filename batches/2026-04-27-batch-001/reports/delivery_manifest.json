@@ -1,0 +1,12 @@
+{
+  "accepted_count": 1,
+  "delivery_dir": "/Users/chenyuqi/Desktop/automation/batches/2026-04-27-batch-001/delivery",
+  "items": [
+    {
+      "case_id": "case-0001",
+      "source_zip_name": "10368(1).zip",
+      "source_zip_path": "/Users/chenyuqi/Desktop/automation/input_zips/10368(1).zip",
+      "delivery_path": "/Users/chenyuqi/Desktop/automation/batches/2026-04-27-batch-001/delivery/case-0001"
+    }
+  ]
+}
